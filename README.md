@@ -11,10 +11,12 @@ A simple and lightweight Notes App built using **HTML**, **CSS**, and **JavaScri
 
 ## 🖥️ Screenshot
 
+![Notes App Screenshot](screenshot.png)
 
 
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/notes-app.git
+   git clone https://github.com/Krishna-Gupta989/simple-notes-app.git
+
